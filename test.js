@@ -10,3 +10,5 @@ function login(password) {
 
 const userInput = prompt("Enter JavaScript");
 eval(userInput);
+
+console.log("ReviewBot parser fix test");
