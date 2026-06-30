@@ -1,2 +1,5 @@
 # reviewbot-test
-Testing ReviewBot GitHub App
+
+Testing automatic fallback models.
+
+This line is added for PR #10.
