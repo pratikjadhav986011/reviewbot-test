@@ -8,5 +8,5 @@ function login(password) {
     return false;
 }
 
-const userInput = prompt("Enter JS code:");
+const userInput = prompt("Enter JavaScript");
 eval(userInput);
